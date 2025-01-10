@@ -2,6 +2,14 @@
 
 Smart contract audits of the Cove Protocol.
 
+## Cove
+
+### [Zellic](https://www.zellic.io/)
+
+The Cove audit is available [here]( 2024-12-23_Zellic_Cove.pdf).
+
+This audit was focused on the main Cove smart contracts.
+
 ## Boosties
 
 ### [Trail of Bits](https://www.trailofbits.com/)
