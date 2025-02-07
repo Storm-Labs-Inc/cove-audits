@@ -6,7 +6,13 @@ Smart contract audits of the Cove Protocol.
 
 ### [Zellic](https://www.zellic.io/)
 
-The Cove audit is available [here]( 2024-12-23_Zellic_Cove.pdf).
+The Cove audit is available [here](2024-12-23_Zellic_Cove.pdf).
+
+This audit was focused on the main Cove smart contracts.
+
+### [Pashov](https://www.pashov.net/)
+
+The Cove audit is available [here](2025-01-16_Pashov_Cove.pdf).
 
 This audit was focused on the main Cove smart contracts.
 
