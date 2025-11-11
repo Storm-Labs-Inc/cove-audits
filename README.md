@@ -10,6 +10,7 @@ Smart contract audits of the Cove ecosystem.
 | :---------------------------------- | :--------------- | :------------------------------------------------------------------------------------------------------- | :------------------------- |
 | [Zellic](https://www.zellic.io/)    | 2024-12-23       | [Report](2024-12-23_Zellic_Cove.pdf)                                                                     | Cove Protocol smart contracts  |
 | [Pashov](https://www.pashov.net/)   | 2025-01-16, 2025-04-19 | [Report 1](2025-01-16_Pashov_Cove.pdf), [Report 2](2025-04-19_Pashov_Cove.pdf)                         | Cove Protocol smart contracts  |
+| [Josselin Feist](https://twitter.com/montyly) | 2025-08-04 | [Report](2025-08-04_Josselin_Feist_Cove.pdf) | End-to-end security assessment: risk assessment, invariant development, and offchain Silverback bot review |
 
 ## Cove Boosties Protocol Audits
 
